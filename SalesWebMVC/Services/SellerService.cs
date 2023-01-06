@@ -20,5 +20,6 @@ namespace SalesWebMVC.Services
         {
             return _context.Seller.ToList();
         }
+
     }
 }
